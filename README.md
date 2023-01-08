@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @AdaptOrDie247
 - :detective: All of my personal code repositories are private. May provide sample upon request.
-- 👀 I’m interested in engineering security solutions.
-- 🌱 Currently learning C# and reading "Refactoring" by Fowler.
-- 💞️ A personal project is keeping me very busy at the moment...
+- 👀 I’m interested in reverse engineering malware.
+- 🌱 Currently learning refactoring with plans to learn C and then x86-64 assembly afterwards.
+- 💞️ Due to focus on learning, am not looking to collaborate right now.
 - 📫 How to reach me: dg.direct.dm@gmail.com.
 
 <!---
