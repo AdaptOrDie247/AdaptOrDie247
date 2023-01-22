@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @AdaptOrDie247
 - :detective: All of my code repositories are private. May provide sample upon request.
 - 👀 I’m interested in reverse engineering malware.
-- 🌱 Currently learning design patterns with plans to learn C and then x86-64 assembly afterwards.
+- 🌱 Currently learning C with plans to learn x86-64 assembly after.
 - 💞️ Due to focus on learning, am not looking to collaborate right now.
 - 📫 How to reach me: dg.direct.dm@gmail.com.
 
