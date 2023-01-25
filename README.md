@@ -1,7 +1,6 @@
 ![Daniel Gilbert - LinkedIn Banner - AdaptOrDie247](https://user-images.githubusercontent.com/121529996/210121665-253bb9c3-0b42-43f7-871b-05a00858a697.PNG)
 
 - 👋 Hi, I’m @AdaptOrDie247
-- :detective: All of my code repositories are private. May provide sample upon request.
 - 👀 I’m interested in reverse engineering malware.
 - 🌱 Currently learning C with plans to learn x86-64 assembly after.
 - 💞️ Due to focus on learning, am not looking to collaborate right now.
