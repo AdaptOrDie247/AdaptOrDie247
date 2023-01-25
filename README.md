@@ -1,4 +1,4 @@
-![Daniel Gilbert - LinkedIn Banner - AdaptOrDie247](https://user-images.githubusercontent.com/121529996/210121665-253bb9c3-0b42-43f7-871b-05a00858a697.PNG)
+![Daniel Gilbert - LinkedIn Banner - AdaptOrDie247 GitHub](https://user-images.githubusercontent.com/121529996/214478633-7d946251-9359-412e-b3d8-795f4e2b1cb1.PNG)
 
 - 👋 Hi, I’m @AdaptOrDie247
 - 👀 I’m interested in reverse engineering malware.
