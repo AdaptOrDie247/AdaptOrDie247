@@ -1,4 +1,4 @@
-![Daniel Gilbert - LinkedIn Banner - AdaptOrDie247 GitHub](https://user-images.githubusercontent.com/121529996/214478633-7d946251-9359-412e-b3d8-795f4e2b1cb1.PNG)
+![Eternal Blue Screenshot - Redacted - Sized - Branded - Links - Edited](https://user-images.githubusercontent.com/121529996/219977483-16e78bf1-d662-48e4-8ecb-90fd6158ef9f.png)
 
 - 👋 Hi, I’m @AdaptOrDie247
 - 👀 I’m interested in exploit development.
