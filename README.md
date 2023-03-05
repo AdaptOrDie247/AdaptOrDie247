@@ -1,4 +1,4 @@
-![DG Red Team Profile Banner](https://user-images.githubusercontent.com/121529996/220031356-bfe0799e-0639-4caa-97bd-98b986a29dd1.png)
+![Eternal Blue Screenshot - Redacted - Sized - Branded - Links - Edited - 8](https://user-images.githubusercontent.com/121529996/222989855-73f7e22a-ed3c-4902-a59f-61a9b5c92369.png)
 
 - 👋 Hi, I’m @AdaptOrDie247
 - 👀 I’m interested in exploit development.
