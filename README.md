@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @AdaptOrDie247
 - 👀 I’m interested in exploit development.
-- 🌱 Currently learning C with plans to learn x86-64 assembly after.
+- 🌱 Currently learning Intel assembly.
 - 💞️ Due to focus on learning, am not looking to collaborate right now.
 - 📫 How to reach me: dg.direct.dm@gmail.com.
 
