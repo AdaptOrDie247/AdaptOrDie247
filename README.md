@@ -6,7 +6,7 @@
 - 💞️ Due to focus on learning, am not looking to collaborate right now.
 - 📫 How to reach me: dg.direct.dm@gmail.com.
 
-Note: If you would like to see my work in C++, please visit my old GitHub AVL Tree project here: https://github.com/danielstephengilbert/avl-tree. I am working to move the code over to this account.
+If you would like to see my work in C++, please visit my old GitHub AVL Tree project here: https://github.com/danielstephengilbert/avl-tree. I am working to move the code over to this account.
 
 <!---
 AdaptOrDie247/AdaptOrDie247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
